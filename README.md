@@ -1,7 +1,7 @@
 # news-video-emotion-analysis
 A small collection of code for performing emotion analysis on news videos
 
-Simple analysis commands:
+## Simple analysis commands:
 
 * Install `pandas`
 * Extract `data.tar.gz` to `data`
@@ -10,7 +10,7 @@ Simple analysis commands:
 
 `python count_scenes.py fox`
 
-Video commands:
+## Video commands:
 
 * Install `pandas`
 * Extract `data.tar.gz` to `data`

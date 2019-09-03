@@ -3,9 +3,8 @@ A small collection of code for performing emotion analysis on news videos
 
 Simple analysis commands:
 
-Install `pandas`
-
-Extract `data.tar.gz` to `data`
+* Install `pandas`
+* Extract `data.tar.gz` to `data`
 
 `python get_mean.py cnn`
 
@@ -13,11 +12,9 @@ Extract `data.tar.gz` to `data`
 
 Video commands:
 
-Install `pandas`
-
-Extract `data.tar.gz` to `data`
-
-Install `youtube-dl`
+* Install `pandas`
+* Extract `data.tar.gz` to `data`
+* Install `youtube-dl`
 
 `./download_youtube_videos.sh` (This will take a long time and consume around 40GB)
 

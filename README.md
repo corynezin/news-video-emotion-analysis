@@ -1,6 +1,8 @@
 # news-video-emotion-analysis
 A small collection of code for performing emotion analysis on news videos
 
+[Some simple analysis here](https://medium.com/@cory.nezin/is-fox-news-angrier-than-cnn-a-computer-assisted-analysis-45b3db340a10)
+
 ## Simple analysis commands:
 
 * Install `pandas`
